@@ -4,7 +4,7 @@
   ![malcontentManagementSystem screenshot](./assets/img/readme/malcontentManagementscreenshots.jpg)
 
   ## OVERVIEW:
-   a command line interface to display a sql database containing company departments, roles and employees. this allows a manager to keep track of the organization, to both see and update the structure of the departments, roles, and employees.. by using a prompt interface, it reduces the amount of errors possible in displaying and updating records. .
+   A command line interface to display a sql database containing company departments, roles and employees. This allows a manager to keep track of the organization, to both see and update the structure of the departments, roles, and employees.By using a prompt interface, it reduces the amount of errors possible in displaying and updating records. 
 
   ## Table Of Contents:
   [Installation](README.md#installation)<br>
